@@ -1,7 +1,6 @@
 # Maximilian Ayling  
 
-**Welcome to my GitHub Profile!**  
+**Welcome to my GitHub Profile 👋**  
 
-🌍 Check out my website
-## 👉 [here](https://mga3.github.io)!
+🌍 [**Check out my website**](https://mga3.github.io)!
 
